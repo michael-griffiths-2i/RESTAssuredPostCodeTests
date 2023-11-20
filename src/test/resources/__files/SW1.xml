@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response>
+	<postcode>SW1</postcode>
+	<country>Great Britain</country>
+	<countryAbbreviation>GB</countryAbbreviation>
+	<places>
+		<place longitude="-0.1418" latitude="51.4956">
+			<placeName>Sloane Square</placeName>
+			<state>England</state>
+			<stateAbbreviation>ENG</stateAbbreviation>
+		</place>
+		<place longitude="-0.1167" latitude="51.5">
+			<placeName>Westminster</placeName>
+			<state>England</state>
+			<stateAbbreviation>ENG</stateAbbreviation>
+		</place>
+		<place longitude="-0.1418" latitude="51.4956">
+			<placeName>Green Park</placeName>
+			<state>England</state>
+			<stateAbbreviation>ENG</stateAbbreviation>
+		</place>
+		<place longitude="-0.1493" latitude="51.4911">
+			<placeName>Belgravia</placeName>
+			<state>England</state>
+			<stateAbbreviation>ENG</stateAbbreviation>
+		</place>
+		<place longitude="-0.144" latitude="51.4962">
+			<placeName>Victoria</placeName>
+			<state>England</state>
+			<stateAbbreviation>ENG</stateAbbreviation>
+		</place>
+	</places>
+</response>

@@ -1,0 +1,11 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/gb/SW1"
+    },
+    "response": {
+        "status": 200,
+		"headers": { "Content-Type": "application/xml" },
+        "bodyFileName": "SW1.xml"
+    }
+}

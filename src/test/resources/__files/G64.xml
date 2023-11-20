@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response>
+	<postcode>G64</postcode>
+	<country>Great Britain</country>
+	<countryAbbreviation>GB</countryAbbreviation>
+	<places>
+		<place longitude="-4.2187" latitude="55.9067">
+			<placeName>Bishopbriggs</placeName>
+			<state>Scotland</state>
+			<stateAbbreviation>SCT</stateAbbreviation>
+		</place>
+	</places>
+</response>
